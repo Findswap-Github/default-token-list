@@ -8,7 +8,7 @@
 		"logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
 	},
 	{
-		"name": "Wrapped Ether (Forge)",
+		"name": "Wrapped Ether",
 		"address": "0x0eD330d7b57fc6Ad0B0C5bE6b40242533db2eDD1",
 		"symbol": "WETH",
 		"decimals": 18,
